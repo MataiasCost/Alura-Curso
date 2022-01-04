@@ -1,1 +1,1 @@
-#Diferentes cursos que fiz na plataforma do Alura.
+Diferentes cursos que fiz na plataforma do Alura.
