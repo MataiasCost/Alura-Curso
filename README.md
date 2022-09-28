@@ -1,1 +1,1 @@
-Diferentes cursos que fiz na plataforma do Alura.
+Diferentes cursos que fiz da plataforma do Alura e achei relevante quardar os códigos. Dentro de cada pasta terá um README.md contendo detalhes do que é estudado no curso, bem como o que é feito em cada código disponível na pasta.
