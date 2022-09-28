@@ -9,4 +9,10 @@ Nesse curso da Alura são abordados os seguintes conceitos:
 
 # Introdução_a_Machine_Learning_Classificação_1
 
-É feita a introdução de classificação, no caso classificamos se o objeto é um porco ou um cachorro com base em três atribuitos: tamanho do pelo, tamanho da perna e se ele faz o som "AuAu".
+É feita a introdução de classificação, no caso classificamos se o objeto é um porco ou um cachorro com base em três atribuitos:
+
+* tamanho do pelo
+* tamanho da perna
+* se ele faz o som "AuAu"
+
+Criamos então um conjunto de dados que contenha essas informações e aplicamos um algoritmo de classificação chamado ```LinearSVC```, utilizando ele aplicamos uma previsão em outros dados, visando entender o conceito de *score*.
