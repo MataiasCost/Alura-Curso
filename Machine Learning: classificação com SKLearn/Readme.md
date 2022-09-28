@@ -9,10 +9,26 @@ Nesse curso da Alura são abordados os seguintes conceitos:
 
 # Introdução_a_Machine_Learning_Classificação_1
 
-É feita a introdução de classificação, no caso classificamos se o objeto é um porco ou um cachorro com base em três atribuitos:
+É feita a introdução de classificação, no caso classificamos se o objeto é um porco ou um cachorro com base em três atributos:
 
 * tamanho do pelo
 * tamanho da perna
 * se ele faz o som "AuAu"
 
 Criamos então um conjunto de dados que contenha essas informações e aplicamos um algoritmo de classificação chamado ```LinearSVC```, utilizando ele aplicamos uma previsão em outros dados, visando entender o conceito de *score*.
+
+# Introdução_a_Machine_Learning_Classificação_2
+
+Utilizamos nesse código um banco de dados contendo informações sobre um site que venda determinado produtos, ele apresenta quatro features (atributos):
+
+* home
+* how_it_works
+* contact
+* bought
+
+O primeiro processo foi passar para o português os nomes das features, depois separamos os dados entre o treino e o teste (onde nosso y é se foi comprado ou não o produto do site), utilizando para isso uma proporção de 75% dos dados para treino e 25% para teste.
+Otimizamos os passos feitos no Introdução_a_Machine_Learning_Classificação_1, utilizando funções ja presentes no sklearn para separar os diferentes tipos de dados.
+Também fizemos que nosso teste e treino tivessem a mesma proporção.
+
+# Introdução_a_Machine_Learning_Classificação_3
+
