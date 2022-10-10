@@ -32,3 +32,8 @@ Também fizemos que nosso teste e treino tivessem a mesma proporção.
 
 # Introdução_a_Machine_Learning_Classificação_3
 
+Essa parte do código é voltada para visualização das classificações. Através do scatter plot podemos ver como o modelo de ML separa as regiões, além disso, conseguimos utilizar um modelo mais robusto de classificador para melhorar a predição do nosso ML.
+
+# Introdução_a_Machine_Learning_Classificação_4
+
+Introdução ao conceito de arvore de decisão. É apresnetado como visualizar as escolhas feitas pelo classificador, bem como determinar até que camada de decisão da arvore queremos usar.
